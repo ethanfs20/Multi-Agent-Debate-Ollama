@@ -1,0 +1,12 @@
+{
+  "models": {
+    "model_a": "llama3.1:latest",
+    "model_b": "qwen2.5:latest",
+    "model_c": "mistral:latest",
+    "model_j": "llama3.1:latest",
+    "model_r": "qwen2.5:latest",
+    "model_v": "qwen2.5:latest",
+    "model_e": "qwen2.5:latest",
+    "fallback_c": "qwen2.5:latest"
+  }
+}

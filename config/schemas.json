@@ -1,0 +1,5 @@
+{
+  "judge_output_format": "1) Strongest arguments FOR (3–5 bullets)\n2) Strongest arguments AGAINST (3–5 bullets)\n3) Empirical evidence map (MANDATORY)\n   - You MUST include an entry for EVERY FOR bullet and EVERY AGAINST bullet.\n   - For EACH bullet, include:\n     • Claim: <copy the bullet>\n     • Evidence: <name evidence type OR specific source (author/org + year)>\n     • What they found: <directional only; no made-up numbers>\n     • Limits: <duration/scale/selection/external validity>\n4) What evidence would change the conclusion (3–6 bullets)\n",
+  "judge_rules": "- Do NOT include or repeat any unrelated constraints unless present in the user question.\n- If you cannot name a specific study/pilot reliably, say so rather than inventing.\n- Do NOT include URLs or search links. If referencing sources, write them as names (e.g., 'National Registry of Exonerations', 'NAS 2012 report') without links.\n",
+  "skeptic_format": "Output strictly:\nVERDICT: CLEAN or VERDICT: ISSUES\nDIVERSITY: OK or DIVERSITY: BAD\n- 3–10 bullets of issues (most severe first)\n- If CLEAN, still include 1 bullet: 'Most likely weak point:'\n"
+}

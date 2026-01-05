@@ -1,0 +1,23 @@
+{
+  "base_url": "http://127.0.0.1:11434",
+  "timeout": 260,
+  "retries": 1,
+  "max_rounds": 3,
+  "num_predict": 260,
+  "temperature": 0.2,
+  "top_p": 0.9,
+  "cache_dir": "cache",
+  "transcripts_dir": "transcripts",
+  "log_file": "mad_log.json",
+  "runs_dir": "runs",
+  "mode": "general",
+  "concise": false,
+  "stream": false,
+  "stream_only_final": false,
+  "parallel": false,
+  "a_samples": 1,
+  "save_calls": true,
+  "save_dataset": true,
+  "print_quality_report": true,
+  "redact_secrets": true
+}
